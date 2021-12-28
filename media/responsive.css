@@ -1,0 +1,47 @@
+@media (min-width: 360px) and  (max-width: 640px) {
+   .Herbogenix-logo img {
+       width: 100%;
+   }
+   .welcome-form {
+    min-height: 513px;
+    background: #fff;
+    margin-top: 2px;
+}
+.login-bg {
+    background: url(../images/login-bgnew.png) no-repeat;
+    min-height: 673px;
+}
+.Depot {
+    font-size: 13px;
+    margin-left: 14px;
+}
+.area {
+    margin-left: 13px;
+    width: 341px;
+}
+.bus-names {
+    font-size: 12px;
+    width: 336px;
+}
+.rtc-details label {
+    padding-left: 7px !important;
+}
+.welcome-form {
+    min-height: 470px;
+    background: #fff;
+    margin-top: -54px;
+}
+.booking-cargo {
+    margin-left: 30px;
+
+}
+.Submit-right {
+    float: right;
+    margin-right: 30px;
+}
+.login-s2 {
+    margin-top: 50px;
+    min-height: 518px;
+}
+
+  }
