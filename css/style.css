@@ -72,6 +72,14 @@ html {
   
     background-size: 100%;
 }
+.copy-rights1 {
+    background: rgb(243 102 104 / 68%);
+    min-height: 40px;
+    width: 100%;
+    z-index: 999;
+    color: rgb(255, 255, 255);
+    margin-top: 19px !important;
+}
 .copy-rights {
     background: rgb(243 102 104 / 68%);
     min-height: 40px;
@@ -212,8 +220,8 @@ p.copy {
     
 }
 .area {
-    margin-left: 57px;
-    width: 416px;
+    margin-left: 69px;
+    width: 416px !important;
 }
 .rtc-details label {
    padding-left: 30px !important;
