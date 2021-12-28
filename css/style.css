@@ -67,11 +67,10 @@ html {
     font-weight: 400;
   }
   
-.login-bg {
+  .login-bg {
     background: url(../images/login-bgnew.png) no-repeat;
-    
+  
     background-size: 100%;
-   
 }
 .copy-rights1 {
     background: rgb(243 102 104 / 68%);
